@@ -1,0 +1,20 @@
+0102133886*Khor En Zu*kez123*3*20*No 646, Taman Connaught, Jalan Desa Melur 4/3, 56000, CHERAS, SELANGOR*2103948*2
+0102384699*Lim Kok Yao*kyl123*3*20*No 78, Taman Megah Ria, Jalan Air Putih 4, 25300, KUANTAN, PAHANG*2100294*4
+0102423455*Adam*adam000*3*20*No 313, Taman Kar King, Jalan Pengkalan Barat, 31650, IPOH, Perak*2105849*3
+0123455524*Zues*zues999*3*20*No 98, Taman Maju, Jalan Maju 1, 31750, Tronoh, Perak*2103954*4
+0166434234*Khor JeeChain*jckhor123*2*20*No 267, Taman Overseas Union, Jalan Hujan Rahmat 3, 58200, KUALA LUMPUR, WILAYAH PERSEKUTUAN*2105973*2
+01110578369*Charles Lee Ung Kiet*cl123*3*19*No 132, Taman Terus, Jalan Tun Hussien Onn,97000, BINTULU, SARAWAK*2104620*2
+0193834745*Gnai Diong Pok*gdp22*4*24*No 31, Taman Jasa, Jalan Zaaba 9/6, 87020, Rancha-Rancha, Labuan*2204758*3
+0156923240*Hong Soon Diong*h4839*3*22*No 97, Taman Desa, Jalan Keliling, 77048, Bukit Katil, Malacca*2204386*3
+01110457896*Tee Junn Jeh*jj123*3*19*No 353, Taman Seafield Jaya , Jalan Usj 21/1, 47630, Petaling Jaya, Selangor*2207898*2
+0173847583*Yeap HuaiZhou*hz003*3*20*No 940, Taman Alam Megah, Jalan Pulau Kempas, 40000, Shah Alam, Selangor*1900973*4
+0135638367*Yee Yun Tian*yyt123*3*19*No 40, Taman Industri Subang, Jalan T/S, 47510, Petaling Jaya, Selangor*2305732*3
+0103892756*Rajiv a/l Thamboosamy*rajiv123*4*21*No 295, Lorong 9, Jalan Rubber, 93400, Kuching, Sarawak*1809853*4
+0194778936*Lee Guan Hong*lgh123*3*19*No 598, Taman Li Hua, Jalan Tun Hussien Onn, 97000, BINTULU, SARAWAK*2105804*3
+0198318369*Chen Wei Han*cwh123*3*25*No 608, Taman Seri Petaling, Jalan Pasai, 57000, Kuala Lumpur, Wilayah Persekutuan*2105025*4
+01110837905*Khor Keat*kk123*4*20*No 312, Taman Bandar Connaught, Jalan Desa Melur 4/1, 56000, CHERAS, KUALA LUMPUR*2103847*3
+0168847269*Adrin Yong Yi Kai*ay123*4*19*No 488, Taman Jaya, Jalan Tun Hussien Onn, 81300, Johor Bahru, Johor*2103927*4
+0194728369*Lee Zong Xuan*lee123*3*23*No 233, Taman Maluri, Jalan Mahkota, 55100, Kuala Lumpur, Wilayah Persekutuan*2107113*3
+01110298475*Wong Yi Yang*wyy123*4*19*No 354, Taman Bandar Jaya, Jalan Tun Hussien Onn, 97000, BINTULU, SARAWAK*2105346*2
+01110789483*Hew Kah Keat*hkk223*3*17*No 898, Taman Sri Damansara, Jalan Cempaka sd 12/2, 52200, KUALA LUMPUR, WILAYAH PERSEKUTUAN*2106873*3
+0198138369*Chan Yi Siang*cys123*3*23*No 1056, Lorong Batu Nilam 1A Bandar Bukit Tinggi, Jalan Tun Hussien Onn, 41200, KLANG, SELANGOR*2105660*3
